@@ -7,7 +7,7 @@ set of domains.
 Sample Issue Body
 
 ![smiley](https://user-images.githubusercontent.com/66588796/98212267-556a7780-1f69-11eb-8864-95532e96688d.png)
-
+a
 
 This sample demonstrates building an app that can unfurl links from the popular photo sharing site
 [Flickr](https://www.flickr.com/). You are welcome to use this as a starting point or a guide in
