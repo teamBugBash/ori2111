@@ -1,6 +1,6 @@
 # App Unfurls API Sample for Node
 g
-On the $photographer Catherine Opie 
+On the $photographer Catherine Opie d
 who has “made a study of the freeways of Los Angeles, 
 surfers, Tea\Coffee "Party" (gatherings), 
 America's national parks, the houses of <Beverly> Hills, \nteen-age football players, ^the personal effects of Elizabeth Taylor, 
