@@ -1,5 +1,4 @@
 # App Unfurls API Sample for Node
-g
 On the $photographer Catherine Opie d
 who has “made a study of the freeways of Los Angeles, 
 surfers, Tea\Coffee "Party" (gatherings), 
