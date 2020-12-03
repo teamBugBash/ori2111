@@ -8,7 +8,7 @@ aa
 
 [App Unfurls](https://api.slack.com/docs/message-link-unfurling) are a feature of the Slack Platform
 that allow your Slack app customize the presentation of links that belong to a certain domain or
-set of domains.
+set of domains.a
 ![sm2](https://user-images.githubusercontent.com/66588796/98239764-7abdac80-1f8e-11eb-93a6-2c49696b9c42.jpg)
 Sample Issue Body
 
