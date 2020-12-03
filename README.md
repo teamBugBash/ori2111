@@ -113,7 +113,7 @@ Return to the app's configuration page from [your list of apps](https://api.slac
 Navigate to the interactive messages section using the menu. Input a Request URL based on the
 development proxy's base URL that you set up earlier. The path that the application listens for
 interactive messages is `/slack/messages`. For example, the Request URL may look like
-`https://myappunfurlsample.ngrok.io/slack/messages`.
+`https://myappunfurlsample.ngrok.io/slack/messages`.s
 
 ### Understanding the code
 
