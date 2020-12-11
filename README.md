@@ -6,7 +6,7 @@ America's national parks, the houses of <Beverly> Hills, \nteen-age football pla
 the Michigan Womyn's Music Festival, Boy Scouts & her friends, mini-malls, andd tree stumps.”
 aa
 
-| a  |  a |  a |  a | s  |
+| a  |  a |  a |  a | s  |s
 |---|---|---|---|---|
 | aaa  | dsasd  | sdasd  | d  |   |
 |   aaa|  sdsad |  a |  f |   |
