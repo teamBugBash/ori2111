@@ -93,7 +93,7 @@ slackEvents.on('link_shared', (event) => {
 });
 ```
 
-The event contains an array of links, which are each run through the function
+The event contains an array of links, which are each run through the functiond
 `messageAttachmentFromLink()` to fetch data about the link from Flickr, and transform the link into
 a message attachment. Message attachments have
 [rich formatting capabilities](https://api.slack.com/docs/message-attachments), and this app uses
