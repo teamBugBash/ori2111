@@ -1,11 +1,8 @@
 # App Unfurls API Sample for Nodes
 On the $photographer Catherine Opie d
 who has “made a study of the fsreeways of Los Angeles, 
-surfers, Tea\Coffee "Party" (gatherings), aaa
-America's national parks, the houses of <Beverly> Hills, \nteen-age football players, ^the personal effects of Elizabeth Taylor, 
-the Michigan Womaayn's Music Festival, Boy Scouts & her friends, mini-mallsaa, andd tree stumps.”
-aass
-
+surfers, Tea\Coffee "Party" (gatherings), aaaaa
+aa
 | a  |  a |  a |  a | s  |s
 |---|---|---|---|---|a
 | aaa  | dsasd  | sdasd  | d  |   |
@@ -67,7 +64,7 @@ FLICKR_API_KEY=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ```
 
 Lastly, download the dependencies for the application by running `npm install`. Note that this
-example assumes you are using a currently supported LTS version of Node (at this time, v6 or above).
+example assumes you are using a currently supported LTS version of Node (at this time, v6 or above)aa.
 
 ## Part 1: The basic unfurl
 
