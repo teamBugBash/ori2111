@@ -3,7 +3,7 @@ On the $photographer Catherine Opie d
 who has “made a study of the fsreeways of Los Angeles, 
 surfers, Tea\Coffee "Party" (gatherings), aaa
 America's national parks, the houses of <Beverly> Hills, \nteen-age football players, ^the personal effects of Elizabeth Taylor, 
-the Michigan Womyn's Music Festival, Boy Scouts & her friends, mini-mallsaa, andd tree stumps.”
+the Michigan Womaayn's Music Festival, Boy Scouts & her friends, mini-mallsaa, andd tree stumps.”
 aass
 
 | a  |  a |  a |  a | s  |s
