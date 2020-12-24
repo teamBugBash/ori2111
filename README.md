@@ -1,13 +1,10 @@
-# App Unfurls API Sample for Node
+# App Unfurls API Sample for Nodes
 On the $photographer Catherine Opie d
 who has “made a study of the fsreeways of Los Angeles, 
 surfers, Tea\Coffee "Party" (gatherings), aaaaa
-America's national parks, the houses of <Beverly> Hills, \nteen-age football players, ^the personal effects of Elizabeth Taylor, 
-the Michigan Womyn's Music Festival, Boy Scouts & her friends, smini-malls, andd tree stumps.”
-aass
-
+aa
 | a  |  a |  a |  a | s  |s
-|---|---|---|---|---|
+|---|---|---|---|---|a
 | aaa  | dsasd  | sdasd  | d  |   |
 |   aaa|  sdsad |  a |  f |   |
 |  sdad afaf|   |  sdasd |ggg   |   |
@@ -93,7 +90,7 @@ slackEvents.on('link_shared', (event) => {
 });
 ```
 
-The event contains an array of links, which are each run through the function
+The event contains an array of links, which are each run through the functiond
 `messageAttachmentFromLink()` to fetch data about the link from Flickr, and transform the link into
 a message attachment. Message attachments have
 [rich formatting capabilities](https://api.slack.com/docs/message-attachments), and this app uses
