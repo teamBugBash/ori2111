@@ -67,7 +67,7 @@ FLICKR_API_KEY=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ```
 
 Lastly, download the dependencies for the application by running `npm install`. Note that this
-example assumes you are using a currently supported LTS version of Node (at this time, v6 or above).
+example assumes you are using a currently supported LTS version of Node (at this time, v6 or above)aa.
 
 ## Part 1: The basic unfurl
 
