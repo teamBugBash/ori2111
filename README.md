@@ -1,6 +1,6 @@
 # App Unfurls API Sample for Nodes
 On the $photographer Catherine Opie d
-who has “made a study of the fsreeways of Los Angeles, 
+who has “made a study of the fsreeways of Los Angaeles, 
 surfers, Tea\Coffee "Party" (gatherings), aaaaa
 aa
 | a  |  a |  a |  a | s  |s
