@@ -53,9 +53,6 @@ You should now have a Slack verification token and access token, as well as a Fl
 this application locally. Create a new file named `.env` within the directory and place these values
 as shown:
 
-```
-SLACK_VERIFICATION_TOKEN=xxxxxxxxxxxxxxxxxxx
-SLACK_CLIENT_TOKEN=xoxp-0000000000-0000000000-0000000000-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 FLICKR_API_KEY=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ```
