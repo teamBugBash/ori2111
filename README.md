@@ -2,7 +2,7 @@
 On the $photographer Catherine Opie da
 who has “made a study of the fsreeways of Los Angeles, a
 surfers, Tea\Coffee "Party" (gatherings), aaaaaqwwwa
-| aaa  | dsasd  | sdasd  | d  |   |
+| aaa  | dsasd  | sdasd  | d  |  f |
 |   aaa|  sdsad |  a |  f |   |
 |  sdad afaf|   |  sdasd |ggg   |   |
 
