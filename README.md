@@ -7,7 +7,7 @@ surfers, Tea\Coffee "Party" (gatherings), aaaaaqwwwas
 |  sdad afaf|   |  sdasd |ggg   |   |
 
 [App Unfurls](https://api.slack.com/docs/message-link-unfurling) are a feature of the Slack Platform
-that allow your Slack app customize the presentation of links thsat belong to a certain domadfdfin or
+that allow your Slack app customize the presentation of links thsat belong to a cessrtain domadfdfin or
 set of domains.a
 ![sm2](https://user-images.githubusercontent.com/66588796/98239764-7abdac80-1f8e-11eb-93a6-2c49696b9c42.jpg)
 Sample Issue Body
