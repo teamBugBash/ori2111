@@ -2,9 +2,7 @@
 On the $photographer Catherine Opie da
 who has “made a study of the fsreeways of Los Angeles, a
 surfers, Tea\Coffee "Party" (gatherings), aaaaaqwwwas
-| aaa  | dsasd  | sdasd  | d  |  f |s
-|   aaa|  sdsad |  a |  f |   |ss
-|  sdad afaf|   |  sdasd |ggg   |   |
+dd
 
 [App Unfurls](https://api.slack.com/docs/message-link-unfurling) are a feature of the Slack Platform
 that allow your Slack app customize the presentation of links thsat belong to a cessrtain domadfdfin or
