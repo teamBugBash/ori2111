@@ -4,7 +4,7 @@ who has “made a study of the fsreeways of Los Angeles, a
 surfers, Tea\Coffee "Party" (gatheringfs), aaaaaqwwwasi
 dd
 
-[App Unfurls](https://api.slack.com/docs/message-link-unfurling) are a feature of the Slack Platform
+[App Unfurls](https://api.slack.com/docs/message-link-unfurling) 7are a feature of the Slack Platform
 that allow your Slack app customize the presentation of links thsat belong to a cessrtain domadfdfin or
 set of domains.a
 ![sm2](https://user-images.githubusercontent.com/66588796/98239764-7abdac80-1f8e-11eb-93a6-2c49696b9c42.jpg)
