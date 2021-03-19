@@ -28,7 +28,7 @@ to use the Events API. This sample app uses the
 [Slack Event Adapter](https://github.com/slack
 
 ### Event Subscription
-
+ss
 Turn on Event Subscriptions for the Slack app. You must input and verify a Request URL, and the
 easiest way to do this is to
 [use a development proxy as described in the Events API module](https://github.com/slackapi/node-slack-events-api#configuration).
