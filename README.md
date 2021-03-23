@@ -1,6 +1,6 @@
 # App Unfurls API Sample for Nodesa
 On the $photographer Catherine Opie das
-who has “made a study of the fsrdeeways of Los Angeles, a
+who has “made a study of the fsrdeeways of Loss Angeles, a
 surfers, Tea\Coffee "Party" (gatheringfs), aaaaaqwwwasi
 dd
 
