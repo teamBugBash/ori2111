@@ -25,7 +25,7 @@ help you gain an understanding of how to make usse of unfurls.
 
 You should start by [creating a Slack app](https://api.slack.com/slack-apps) and configuring it
 to use the Events API. This sample app uses the
-[Slack Event Adapter](https://github.com/slack
+[Slack Event Adapter](https://github.com/slacks
 
 ### Event Subscription
 ss
