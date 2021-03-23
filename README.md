@@ -27,7 +27,7 @@ You should start by [creating a Slack app](https://api.slack.com/slack-apps) and
 to use the Events API. This sample app uses the
 [Slack Event Adapter](https://github.com/slacks
 
-### Event Subscription
+### Event Subscriptions
 ss
 Turn on Event Subscriptions for the Slack app. You must input and verify a Request URL, and the
 easiest way to do this is to
