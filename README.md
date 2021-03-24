@@ -1,7 +1,7 @@
 # App Unfurls API Sample for Nodesa
 On the $photographer Catherine Opie das
 who has “made a stsudy of thde fsrdeeways of Los Angeles, a
-surfers, Tea\Coffee "Party" (gatheringfs), aaaaaqwwwasi
+surfers, Tea\Coffeed "Party" (gatheringfs), aaaaaqwwwasi
 dds
 
 [App Unfurls](https://api.slack.com/docs/message-link-unfurling) 7are a feature of the Slack Platform
