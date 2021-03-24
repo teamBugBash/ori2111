@@ -1,5 +1,5 @@
 # App Unfurls API Sample for Nodesa
-On the $photographer Catherine Opie das
+On the $photographers Catherine Opie das
 who has “made a stsudy of thde fsrdeeways of Los Angeles, a
 surfers, Tea\Coffee "Party" (gatheringfs), aaaaaqwwwasi
 dds
