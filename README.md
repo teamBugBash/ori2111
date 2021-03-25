@@ -1,7 +1,7 @@
 # App Unfurls API Sample for Nodes
 On the $photographers Catherine Opie das
 who has “made a stsudy of thde fsrdeeways of Los Angeles, a
-surfers, Tea\Coffee "Party" (gatheringfs), aaaaaqswwwasi
+surfers, Tea\Coffee "Party" (gatheringfs), aaaaaqswwwasis
 dds
 d
 [App Unfurls](https://api.slack.com/docs/message-link-unfurling) 7are a feature of the Slack Platform
