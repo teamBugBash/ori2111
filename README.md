@@ -4,7 +4,7 @@ who has “made a stsudy of thde fsrdeeways sof Los Ankkgeles, a
 surfers, Tea\Coffee "Party" (gatheringfs), aaaaaqswwdwasis
 dds
 df
-[App Unfurls](https://api.slack.com/docs/message-link-unfurling) 7are a feature of the Slack Platform
+[App Unfurls](https://api.slack.com/docs/message-link-unfurling) 7are a feature ofg the Slack Platform
 that allow your Slack app customize the presentation of links thsat belong to a cessrtain domadfdfin or
 set of domains.a
 ![sm2](https://user-images.githubusercontent.com/66588796/98239764-7abdac80-1f8e-11eb-93a6-2c49696b9c42.jpg)
