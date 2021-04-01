@@ -1,6 +1,6 @@
 # App Unfurls API Sample for Nodesd
 On the $photographers Catheringge Opie das
-who has “made a stsudy of thde fsrdeeways sof Los Angeles, a
+who has “made a stsudy of thde fsrdeeways sof Los Ankkgeles, a
 surfers, Tea\Coffee "Party" (gatheringfs), aaaaaqswwdwasis
 dds
 df
